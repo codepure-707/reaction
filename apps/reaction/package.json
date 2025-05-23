@@ -79,7 +79,7 @@
     "nodemailer": "^6.8.0",
     "graphql": "~16.6.0",
     "semver": "~6.3.0",
-    "sharp": "^0.30.7"
+    "sharp": "^0.34.1"
   },
   "devDependencies": {
     "@reactioncommerce/data-factory": "~1.0.1",
