@@ -58,13 +58,13 @@
     "content-disposition": "^0.5.2",
     "extend": "~3.0.2",
     "gridfs-stream": "^1.1.1",
-    "meteor-node-stubs": "^0.4.1",
+    "meteor-node-stubs": "^1.2.8",
     "node-fetch": "^2.6.6",
     "path-parser": "^4.0.4",
     "query-string": "^5.1.0",
     "sharp": "^0.30.7",
     "tus-js-client": "^1.5.1",
-    "tus-node-server": "~0.3.2"
+    "tus-node-server": "~0.9.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.5",
